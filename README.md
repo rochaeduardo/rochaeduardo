@@ -1,7 +1,8 @@
-### 👋 Olá! Eu sou o [Eduardo Rocha ](https://rochaeduardo.com.br/)   
-- 🔭 Atualmente trabalho com back-end
-- 🌱 Estudando para certificações Java
-- 😎 Interessado em fullstack
+### 👋 Hello! I'm [Eduardo Rocha ](https://rochaeduardo.com.br/)   
+- 🔭 I currently work with backend
+- 🌱 Studying for Java certifications
+- 😎 Interested in fullstack
+
 <div>
    <a href="https://www.linkedin.com/in/eduardojrrocha/">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rochaeduardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
