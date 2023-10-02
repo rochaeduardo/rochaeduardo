@@ -1,7 +1,21 @@
-### 👋 Hello! I'm [Eduardo Rocha ](https://rochaeduardo.com.br/)   
-- 🔭 I currently work with backend
-- 🌱 Studying for Java certifications
-- 😎 Interested in fullstack
+# 👋 Hello, I'm [Eduardo Rocha](https://rochaeduardo.com.br/)!
+
+## About Me
+
+- 👨‍💻 I'm a Full-Stack Developer with experience in a wide range of technologies:
+  - Java and Spring for back-end development.
+  - Angular for front-end development.
+  - Node.js for server-side scripting.
+  - AWS for cloud services.
+- 🌱 I'm continuously learning and staying up-to-date with the latest trends in full-stack development.
+- 😎 I'm passionate about creating web applications that deliver exceptional user experiences.
+
+## Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eduardorocha/) or visit my personal website [here](https://rochaeduardo.com.br/).
+
+Thanks for visiting my GitHub profile! 😄
+
 
 <div>
    <a href="https://www.linkedin.com/in/eduardojrrocha/">
