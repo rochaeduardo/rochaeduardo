@@ -1,20 +1,31 @@
-# 👋 Hello, I'm [Eduardo Rocha](https://rochaeduardo.com.br/)!
+<div align="center">
+  <h1>👋 Hello, I'm Eduardo Rocha</h1>
+  <p>Full-Stack Developer | Java | Spring | Angular | Node.js | AWS</p>
+  <a href="https://rochaeduardo.com.br/" target="_blank">Visit My Website</a>
+</div>
 
 ## About Me
 
-- 👨‍💻 I'm a Full-Stack Developer with experience in a wide range of technologies:
-  - Java and Spring for back-end development.
-  - Angular for front-end development.
-  - Node.js for server-side scripting.
-  - AWS for cloud services.
-- 🌱 I'm continuously learning and staying up-to-date with the latest trends in full-stack development.
-- 😎 I'm passionate about creating web applications that deliver exceptional user experiences.
+<p align="center">
+  I'm a versatile Full-Stack Developer with a strong command of multiple technologies. My expertise spans both the front-end and back-end, enabling me to create end-to-end solutions with ease.
+</p>
 
-## Connect with Me
+<div align="center">
+  <h3>Skills:</h3>
+  <p>Java and Spring for back-end development</p>
+  <p>Angular for front-end development</p>
+  <p>Node.js for server-side scripting</p>
+  <p>AWS for cloud-based solutions</p>
+</div>
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eduardorocha/) or visit my personal website [here](https://rochaeduardo.com.br/).
+<p align="center">
+  I'm passionate about crafting web applications that deliver exceptional user experiences. Whether it's optimizing server performance or designing intuitive user interfaces, I'm dedicated to creating web solutions that make a difference.
+</p>
 
-Thanks for visiting my GitHub profile! 😄
+<p align="center">
+  Feel free to connect with me on <a href="https://www.linkedin.com/in/eduardojrrocha/" target="_blank">LinkedIn</a> or explore my projects on <a href="https://rochaeduardo.com.br/" target="_blank">my personal website</a>.
+</p>
+<br><br>
 
 
 <div>
@@ -40,3 +51,6 @@ Thanks for visiting my GitHub profile! 😄
 </div>
    
 ![Snake animation](https://github.com/rochaeduardo/rochaeduardo/blob/output/github-contribution-grid-snake.svg)
+
+
+Thanks for visiting my GitHub profile! 😄
