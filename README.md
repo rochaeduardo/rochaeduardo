@@ -1,3 +1,10 @@
+<p align="right">
+  <a href="README.pt-br.md" style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://img.icons8.com/color/48/brazil.png" height="16" style="vertical-align: middle;"/> 
+    <span>Portuguese</span>
+  </a>
+</p>
+
 <div align="center">
   <h1>👋 Hello, I'm Eduardo Rocha</h1>
   <p>Full-Stack Developer | Java | Spring | Angular | Node.js | AWS</p>
