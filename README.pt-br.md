@@ -1,4 +1,11 @@
-  <div align="center">
+<p align="right">
+  <a href="README.md" style="display: inline-flex; align-items: center; gap: 4px;">
+    <img src="https://img.icons8.com/color/48/usa.png" height="16" style="vertical-align: middle;"/> 
+    <span>Inglês</span>
+  </a>
+</p>
+
+<div align="center">
   <h1>👋 Olá, eu sou o Eduardo Rocha</h1>
   <p>Desenvolvedor Full-Stack | Java | Spring | Angular | Node.js | AWS</p>
   <a href="https://rochaeduardo.com.br/" target="_blank">Visite meu site</a>
